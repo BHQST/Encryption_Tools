@@ -5,7 +5,7 @@
  - ### Table Of Contents
 <p align="center">
   <a href="#Description">Description</a> •
-  <a href="Installation">Instsllation</a> • 
+  <a href="Installation">Installation</a> • 
  <a
  href="#Usage">Usage</a> •
   <a href="#License">License</a> •
