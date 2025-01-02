@@ -44,4 +44,4 @@ cd DNA_Encryption
  - ### Contact
   - For questions or feedback, contact Ghost Squad at theforgedesign@protonmail.com
 
-[🔼 Back to table of contents](#Table Of Content)
+[🔼 Back to table of contents](#Table Of Contents)
