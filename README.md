@@ -1,3 +1,5 @@
+[stars-url]: https://github.com/chingu-voyages/moonshot-chingu-quiz/stargazers
+
 [![Stargazers][stars-shield]][stars-url]
 
 # DNA Cipher
