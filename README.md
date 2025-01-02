@@ -1,5 +1,8 @@
 ![GitHub Created At](https://img.shields.io/github/created-at/BHQST/DNA_Encryption)
 
+![GitHub forks](https://img.shields.io/github/forks/:user/:repo)
+
+
 # DNA Cipher
  > [!NOTE]
  > A different take on DNA Encryption 
