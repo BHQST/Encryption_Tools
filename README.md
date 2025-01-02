@@ -4,6 +4,7 @@
 
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
 
+![GitHub Created At](https://img.shields.io/github/created-at/:user/:repo)
 
 # DNA Cipher
  > [!NOTE]
