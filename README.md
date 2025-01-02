@@ -1,4 +1,6 @@
-![GitHub Created At](https://img.shields.io/github/created-at/BHQST/DNA_Encryption)
+![GitHub Repo stars](https://img.shields.io/github/stars/BHQST/DNA_Encryption)
+
+
 ![GitHub forks](https://img.shields.io/github/forks/BHQST/DNA_Encryption)
 
 
