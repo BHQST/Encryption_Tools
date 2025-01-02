@@ -1,5 +1,5 @@
 # DNA Cipher
- > [!NOTES]
+ > [!NOTE]
  > A different take on DNA Encryption 
 
  - ### Table Of Contents
