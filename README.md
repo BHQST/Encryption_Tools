@@ -1,5 +1,3 @@
-
-
 # DNA Cipher
  > [!NOTE]
  > A different take on DNA Encryption 
@@ -44,4 +42,4 @@ cd DNA_Encryption
  - ### Contact
   - For questions or feedback, contact Ghost Squad at theforgedesign@protonmail.com
 
-[🔼 Back to table of contents](#Table Of Contents)
+[Top](#Table-Of-Contents)
