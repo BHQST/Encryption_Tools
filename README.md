@@ -1,10 +1,4 @@
-[stars-url]: https://github.com/chingu-voyages/moonshot-chingu-quiz/stargazers
-
-[![Stargazers](stars-shield)](stars-url)
-
-![Static Badge](https://img.shields.io/badge/:badgeContent)
-
-![GitHub Created At](https://img.shields.io/github/created-at/:user/:repo)
+![GitHub Created At](https://img.shields.io/github/created-at/BHQST/DNA_Encryption)
 
 # DNA Cipher
  > [!NOTE]
