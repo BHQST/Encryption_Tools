@@ -1,3 +1,5 @@
+[![Stargazers][stars-shield]][stars-url]
+
 # DNA Cipher
  > [!NOTE]
  > A different take on DNA Encryption 
