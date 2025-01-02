@@ -17,27 +17,27 @@
  - ### Description
 
  - ### Installation 
-Clone the repository to your local machine:
+  - Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/abo-cipher.git
+git clone https://github.com/yourusername/DNA_Encryption.git
 ```
 
  - ### Usage
 
  - ### License
 
-This project is licensed under the MIT License. See the [LICENSE](LINCENSE) file for details.
+  - This project is licensed under the MIT License. See the [LICENSE](LINCENSE) file for details.
 
  - ### Contribution
-Feel free to submit issues or pull requests to enhance the project.
+  - Feel free to submit issues or pull requests to enhance the project.
 
-1. Fork the repository.
-2. Clone the repository to your local machine:
+  1. Fork the repository.
+  2. Clone the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/abo-cipher.git
 cd abo-cipher
 ```
 
  - ### Contact
-For questions or feedback, contact Ghost Squad at theforgedesign@protonmail.com
+  - For questions or feedback, contact Ghost Squad at theforgedesign@protonmail.com
