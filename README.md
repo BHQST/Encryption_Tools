@@ -3,7 +3,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/BHQST/DNA_Encryption)
 ![GitHub branch status](https://img.shields.io/github/checks-status/BHQST/DNA_Encryption/main)
 ![GitHub contributors](https://img.shields.io/github/contributors/BHQST/DNA_Encrpytion)
-![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/:variant/BHQST/DNA_Encryption/latest/total)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/BHQST/DNA_Encryption/total)
 
 
 
