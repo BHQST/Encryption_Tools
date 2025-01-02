@@ -27,6 +27,17 @@ git clone https://github.com/yourusername/abo-cipher.git
 
  - ### License
 
+This project is licensed under the MIT License. See the [LICENSE](LINCENSE) file for details.
+
  - ### Contribution
+Feel free to submit issues or pull requests to enhance the project.
+
+1. Fork the repository.
+2. Clone the repository to your local machine:
+```bash
+git clone https://github.com/yourusername/abo-cipher.git
+cd abo-cipher
+```
 
  - ### Contact
+For questions or feedback, contact Ghost Squad at theforgedesign@protonmail.com
