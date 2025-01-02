@@ -2,6 +2,9 @@
 
 [![Stargazers](stars-shield)](stars-url)
 
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
+
 # DNA Cipher
  > [!NOTE]
  > A different take on DNA Encryption 
