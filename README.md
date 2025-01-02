@@ -1,3 +1,7 @@
+[![Stargazers][stars-shield]][stars-url]
+[![Forks][forks-shield]][forks-url]
+[![Issues][issues-shield]][issues-url]
+
 # DNA Cipher
  > [!NOTE]
  > A different take on DNA Encryption 
