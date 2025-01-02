@@ -35,8 +35,8 @@ git clone https://github.com/yourusername/DNA_Encryption.git
   1. Fork the repository.
   2. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/abo-cipher.git
-cd abo-cipher
+git clone https://github.com/yourusername/DNA_Encryption.git
+cd DNA_Encryption 
 ```
 
  - ### Contact
