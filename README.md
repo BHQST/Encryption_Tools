@@ -1,4 +1,15 @@
-# DNA-encryption-
-Tools for encryption 
+# DNA Cipher
 
-Py scripts to encode and decode dna with a few helper scripts for ease of use 
+ - ### Table Of Contents
+
+ - ### Description
+
+ - ### Installation 
+
+ - ### Usage
+
+ - ### License
+
+ - ### Contribution
+
+ - ### Contact
