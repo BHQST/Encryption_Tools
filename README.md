@@ -12,6 +12,10 @@
  </a>
 </p>
 
+***
+---
+<hr/>
+
 # DNA Cipher
  > [!NOTE]
  > A different take on DNA Encryption 
