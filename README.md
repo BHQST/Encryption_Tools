@@ -19,6 +19,8 @@
  > [!NOTE]
  > A different take on DNA Encryption 
 
+***
+
  - ### Table Of Contents
 <p align="center">
   <a href="#Description">Description</a> •
@@ -30,6 +32,7 @@
 <a href="#Contact">Contact</a>
 </p>
 
+***
 
  - ### Description
 [Top](#Table-Of-Contents)
@@ -44,8 +47,13 @@ git clone https://github.com/yourusername/DNA_Encryption.git
 [Top](#Table-Of-Contents)</a>
   </p>
 
+***
+
  - ### Usage
 [Top](#Table-Of-Contents)
+
+*** 
+ 
  - ### License
 
   - This project is licensed under the MIT License. See the [LICENSE](LINCENSE) file for details.
