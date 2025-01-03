@@ -32,7 +32,6 @@
 ***
 
  - ### Description
-[Top](#Table-Of-Contents)
 
 ***
  
@@ -42,14 +41,10 @@
 ```bash
 git clone https://github.com/yourusername/DNA_Encryption.git
 ```
-[Top](#Table-Of-Contents)
 
 ***
 
  - ### Usage
- <center>
- [Top](#Table-Of-Contents)
-</center>
 
 *** 
  
@@ -57,8 +52,6 @@ git clone https://github.com/yourusername/DNA_Encryption.git
 
   - This project is licensed under the MIT License. See the [LICENSE](LINCENSE) file for details.
     
-[Top](#Table-Of-Contents)
-
 ***
 
  - ### Contribution
@@ -70,11 +63,10 @@ git clone https://github.com/yourusername/DNA_Encryption.git
 git clone https://github.com/yourusername/DNA_Encryption.git
 cd DNA_Encryption 
 ```
-[Top](#Table-Of-Contents)
 
 ***
 
  - ### Contact
   - For questions or feedback, contact Ghost Squad at theforgedesign@protonmail.com
 
-[Top](#Table-Of-Contents)
+[Back To Top](#Table-Of-Contents)
