@@ -1,3 +1,7 @@
+# DNA Cipher
+ > [!NOTE]
+ > A different take on DNA Encryption
+
 <p align="center">
  <a
 ![GitHub Repo stars](https://img.shields.io/github/stars/BHQST/DNA_Encryption)
@@ -12,11 +16,7 @@
  </a>
 </p>
 
-***
-# DNA Cipher
- > [!NOTE]
- > A different take on DNA Encryption 
-***
+*** 
 
  - ### Table Of Contents
 <p align="center">
