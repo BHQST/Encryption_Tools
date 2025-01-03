@@ -1,7 +1,6 @@
 <p align="center">
  <a
 ![GitHub Repo stars](https://img.shields.io/github/stars/BHQST/DNA_Encryption)
- </a>
 
 ![GitHub forks](https://img.shields.io/github/forks/BHQST/DNA_Encryption)
 ![GitHub watchers](https://img.shields.io/github/watchers/BHQST/DNA_Encryption)
