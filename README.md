@@ -13,11 +13,9 @@
 </p>
 
 ***
-
 # DNA Cipher
  > [!NOTE]
  > A different take on DNA Encryption 
-
 ***
 
  - ### Table Of Contents
