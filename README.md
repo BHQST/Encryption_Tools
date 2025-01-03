@@ -37,9 +37,8 @@
 git clone https://github.com/yourusername/DNA_Encryption.git
 ```
 <p align="center">
- <a
 [Top](#Table-Of-Contents)
- /a>
+  </p>
 
  - ### Usage
 [Top](#Table-Of-Contents)
