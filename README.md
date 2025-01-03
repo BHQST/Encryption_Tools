@@ -3,11 +3,17 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/BHQST/DNA_Encryption)
   
 ![GitHub forks](https://img.shields.io/github/forks/BHQST/DNA_Encryption)
+
 ![GitHub watchers](https://img.shields.io/github/watchers/BHQST/DNA_Encryption)
+
 ![GitHub branch status](https://img.shields.io/github/checks-status/BHQST/DNA_Encryption/main)
+
 ![GitHub contributors](https://img.shields.io/github/contributors-anon/BHQST/DNA_Encryption)
+
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/BHQST/DNA_Encryption/total)
+
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/BHQST/DNA_Encryption)
+
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/BHQST/DNA_Encryption)
  </a>
 </p>
