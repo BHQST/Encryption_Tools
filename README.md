@@ -13,7 +13,6 @@
 </p>
 
 ***
----
 
 # DNA Cipher
  > [!NOTE]
@@ -36,6 +35,9 @@
 
  - ### Description
 [Top](#Table-Of-Contents)
+
+***
+ 
  - ### Installation 
   - Clone the repository to your local machine:
 
@@ -59,6 +61,8 @@ git clone https://github.com/yourusername/DNA_Encryption.git
   - This project is licensed under the MIT License. See the [LICENSE](LINCENSE) file for details.
 [Top](#Table-Of-Contents)
 
+***
+
  - ### Contribution
   - Feel free to submit issues or pull requests to enhance the project.
 
@@ -70,6 +74,7 @@ cd DNA_Encryption
 ```
 [Top](#Table-Of-Contents)
 
+***
 
  - ### Contact
   - For questions or feedback, contact Ghost Squad at theforgedesign@protonmail.com
