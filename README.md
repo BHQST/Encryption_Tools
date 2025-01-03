@@ -49,7 +49,7 @@ git clone https://github.com/yourusername/DNA_Encryption.git
 ***
 
  - ### Usage
-<center>
+ <center>
  [Top](#Table-Of-Contents)
 </center>
 
