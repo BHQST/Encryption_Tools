@@ -44,9 +44,7 @@
 ```bash
 git clone https://github.com/yourusername/DNA_Encryption.git
 ```
-<p align="center">
 [Top](#Table-Of-Contents)
-</p>
 
 ***
 
@@ -58,6 +56,7 @@ git clone https://github.com/yourusername/DNA_Encryption.git
  - ### License
 
   - This project is licensed under the MIT License. See the [LICENSE](LINCENSE) file for details.
+    
 [Top](#Table-Of-Contents)
 
 ***
