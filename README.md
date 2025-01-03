@@ -14,7 +14,6 @@
 
 ***
 ---
-<hr/>
 
 # DNA Cipher
  > [!NOTE]
