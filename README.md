@@ -1,5 +1,5 @@
 <a id="top"></a>
-# Encrpytion Tools
+# Encryption Tools
 
 ![Logo](Logo.png)
 
