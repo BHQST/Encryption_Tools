@@ -1,6 +1,8 @@
 <a id="top"></a>
 # Encrpytion Tools
 
+![Logo](Logo.png)
+
 ***
 ***
 
