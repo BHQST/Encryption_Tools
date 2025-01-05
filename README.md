@@ -18,7 +18,7 @@
  - [ ] Up load other tools.
  - [ ] Link the tools to other repos that have used them. Primarly will be used in the `3301` repo.
  - [ ] Fill in the rest of the template that has been used in all repos under `"BHQST"`
- - [ ] Create a standard Logo.png to link to README.md
+ - [x] Create a standard Logo.png to link to README.md
  - [ ] Merge the scripts together into a simple to use cli script that does both encrytpion and decrytpion.
 
 ***
