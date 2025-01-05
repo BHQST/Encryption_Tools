@@ -9,9 +9,9 @@ a menu-driven interface for ease of use.
 
 ---
 
-## To Do
-- May add a gui and some other minor functions.
-- Fix the Multiple Write outputs to write to file correctly
+## Work List
+- [ ] May add a gui and some other minor functions.
+- [ ] Fix the Multiple Write outputs to write to file correctly
 
 ---
 
