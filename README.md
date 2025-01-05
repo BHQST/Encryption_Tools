@@ -1,14 +1,14 @@
 <a id="top"></a>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/BHQST/3301" alt="GitHub Repo stars">
-  <img src="https://img.shields.io/github/forks/BHQST/3301" alt="GitHub forks">
-  <img src="https://img.shields.io/github/watchers/BHQST/3301" alt="GitHub watchers">
-  <img src="https://img.shields.io/github/checks-status/BHQST/3301/main" alt="GitHub branch status">
-  <img src="https://img.shields.io/github/contributors-anon/BHQST/3301" alt="GitHub contributors">
-  <img src="https://img.shields.io/github/downloads/BHQST/3301/total" alt="GitHub Downloads">
-  <img src="https://img.shields.io/github/issues/BHQST/3301" alt="GitHub Issues">
-  <img src="https://img.shields.io/github/issues-pr/BHQST/3301" alt="GitHub Pull Requests">
+  <img src="https://img.shields.io/github/stars/BHQST/Encryption_Tools" alt="GitHub Repo stars">
+  <img src="https://img.shields.io/github/forks/BHQST/Encryption_Tools" alt="GitHub forks">
+  <img src="https://img.shields.io/github/watchers/BHQST/Encryption_Tools" alt="GitHub watchers">
+  <img src="https://img.shields.io/github/checks-status/BHQST/Encryption_Tools/main" alt="GitHub branch status">
+  <img src="https://img.shields.io/github/contributors-anon/BHQST/Encryption_Tools" alt="GitHub contributors">
+  <img src="https://img.shields.io/github/downloads/BHQST/Encryption_Tools/total" alt="GitHub Downloads">
+  <img src="https://img.shields.io/github/issues/BHQST/Encryption_Tools" alt="GitHub Issues">
+  <img src="https://img.shields.io/github/issues-pr/BHQST/Encryption_Tools" alt="GitHub Pull Requests">
 </p>
 
 ***
@@ -29,7 +29,7 @@
       <li><a href="#Description">Description</a></li>
       <li><a href="#Community">Community</a></li>
       <li><a href="#Work List">Work List</a></li>
-	  <li><a href+"#Installation">Installation</a></li>
+	  <li><a href="#Installation">Installation</a></li>
       <li><a href="#Contribution">Contribution</a></li>
       <li><a href="#Credits">Credits</a></li>
       <li><a href="#License">License</a></li>
@@ -52,7 +52,7 @@
 <h1 align="center">Community</h1>
 
 - There is a community board set up for users to discuss the ongoing project of Cicada puzzles.
-- Have ideas or questions? [Join the Discussion](https://github.com/BHQST/3301/discussions) to connect with others and share your thoughts!
+- Have ideas or questions? [Join the Discussion](https://github.com/BHQST/Encryption_Tools/discussions) to connect with others and share your thoughts!
 
 ***
 ***
