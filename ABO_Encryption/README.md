@@ -35,7 +35,7 @@ a menu-driven interface for ease of use.
 ## Installation
 1. Clone the repository:
  ```bash
- git clone https://
+ git clone https://github.com/BHQST/Encryption_Tools.git
  ```
 
 2. Navigate to the directory:
