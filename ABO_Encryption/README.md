@@ -26,8 +26,9 @@ a menu-driven interface for ease of use.
 ---
 
 ## Requirements
--**Python Version**: Python 3.7 or later.
--**Operating System**: Any OS with Python installed.
+ - **Python Version**: Python 3.7 or later.
+
+ - **Operating System**: Any OS with Python installed.
 
 ---
 
