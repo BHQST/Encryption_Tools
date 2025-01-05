@@ -34,15 +34,19 @@ a menu-driven interface for ease of use.
 
 ## Installation
 1. Clone the repository:
-	'''bash
-	git clone https://
+ ```bash
+ git clone https://
+ ```
 
 2. Navigate to the directory:
-	cd abo-cipher
+ ```bash
+ cd abo-cipher
+ ```
 
 3. Run the script:
-	python3 abo_cipher.py
-
+ ```bash
+ python3 abo_cipher.py
+ ```
 ---
 
 ## Usage
