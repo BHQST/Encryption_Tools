@@ -13,7 +13,7 @@
 
 ***
 
-<h1 id="centered-header" align="center">$${\color{red}Encryption/ Tools}$$</h1> 
+<h1 id="centered-header" align="center">$${\color{red}Encryption / Tools}$$</h1> 
 
 ![Logo](Logo.png)
 
