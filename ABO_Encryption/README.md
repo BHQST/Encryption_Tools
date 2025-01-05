@@ -40,12 +40,12 @@ a menu-driven interface for ease of use.
 
 2. Navigate to the directory:
  ```bash
- cd abo-cipher
+ cd Encryption_Tools/ABO_Encryption
  ```
 
 3. Run the script:
  ```bash
- python3 abo_cipher.py
+ python3 ABO_Encryption.py
  ```
 ---
 
