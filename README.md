@@ -83,7 +83,7 @@
 1. **Fork the repository.**
 2. **Clone the repository to your local machine:**
 ```bash
-git clone https://github.com/BHQST/Q_Project/Encryption_Tools.git
+git clone https://github.com/BHQST/Encryption_Tools.git
 ```
 3. **Move to the directory.**
 ```bash
