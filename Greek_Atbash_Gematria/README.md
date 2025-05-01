@@ -75,10 +75,13 @@ This project is released for personal and academic use only. Redistribution or c
 ---
 
 
-No matter if UPPER of LOWER the value remains the same.
+No matter if UPPER or LOWER the value remains the same.
+
 [ΑΒΓΔΕϚΖΗΘΙΚΛΜΝΞΟΠϞΡΣΤΥΦΧΨΩϠ] 
+
 [αβγδεϛζηθικλμνξοπϟρστυφχψωϡ]
 
+"""
 Α > 1 < α
 Β > 2 < β
 Γ > 3 < γ
@@ -106,4 +109,4 @@ No matter if UPPER of LOWER the value remains the same.
 Ψ > 700 < ψ
 Ω > 800 < ω
 Ϡ > 900 < ϡ    # This one is commented out or not included. it gave different results.
-
+"""
