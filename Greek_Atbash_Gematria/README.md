@@ -26,8 +26,7 @@ This application relies only on Python’s standard library.
 GreekAtbashCipher/
 ├── main.py              # GUI interface built with Tkinter
 ├── atbash_core.py       # Cipher logic and gematria calculations
-├── README.md            # Project documentation
-└── requirements.txt     # Dependency file (minimal)
+└──  README.md            # Project documentation
 ```
 
 ## Getting Started
@@ -75,18 +74,9 @@ This project is released for personal and academic use only. Redistribution or c
 
 ---
 
-## requirements.txt
 
-```txt
-# Standard library only; no external dependencies required
-
-# Optional: For environments missing tkinter (e.g., minimal Linux)
-tk
-```
-
-
-No matter if UPPER of LOWER the value remains the same. 
-[ΑΒΓΔΕϚΖΗΘΙΚΛΜΝΞΟΠϞΡΣΤΥΦΧΨΩϠ]
+No matter if UPPER of LOWER the value remains the same.
+[ΑΒΓΔΕϚΖΗΘΙΚΛΜΝΞΟΠϞΡΣΤΥΦΧΨΩϠ] 
 [αβγδεϛζηθικλμνξοπϟρστυφχψωϡ]
 
 Α > 1 < α
