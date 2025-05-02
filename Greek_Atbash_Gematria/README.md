@@ -1,3 +1,5 @@
+![Logo](Logo.png)
+
 # Greek Atbash Cipher GUI
 
 A desktop GUI application for encrypting Greek text using the Atbash cipher with optional ROT (rotation) shifting. The program also computes Greek gematria (numerical values of Greek letters) and presents a user-friendly interface built with Tkinter.
