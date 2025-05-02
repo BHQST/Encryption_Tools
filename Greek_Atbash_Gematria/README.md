@@ -77,11 +77,11 @@ This project is released for personal and academic use only. Redistribution or c
 
 No matter if UPPER or LOWER the value remains the same.
 
+```
 [ΑΒΓΔΕϚΖΗΘΙΚΛΜΝΞΟΠϞΡΣΤΥΦΧΨΩϠ] 
 
 [αβγδεϛζηθικλμνξοπϟρστυφχψωϡ]
 
-```
 Α > 1 < α
 Β > 2 < β
 Γ > 3 < γ
